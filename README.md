@@ -8,7 +8,8 @@
 5	Moq 	                4.18.2
 6	xunit               	2.4.1
 
-#Database file: Converter_Script.sql 
+#Database : Sql server
+file: Converter_Script.sql 
 Contains DDL and DML definitions for tables used in the project.
 1.	tblConversionRates
 2.	log
